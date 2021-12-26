@@ -1,0 +1,43 @@
+.nav_color {
+  border-bottom: solid 1px white;
+}
+
+#n_text {
+  transition: 1ms;
+  color: white;
+  background-color: #0b2a66;
+}
+
+section:hover #n_text {
+  transition: 1ms;
+  background-color: white;
+  color: #0b2a66;
+}
+
+input.style1 {
+  border-radius: 10px;
+  border: 1px solid #0b2a66;
+  padding: 20px;
+  width: 220px;
+  height: 40px;
+  background-color: rgb(30, 59, 114);
+  color: white;
+}
+::placeholder {
+  color: white;
+}
+a.anch2 {
+  color: rgb(0, 0, 0, 0.6);
+  text-decoration: none;
+}
+a.anch3 {
+  text-decoration: none;
+}
+.anch3:hover {
+  text-decoration: underline;
+}
+.Summary_Detail {
+  overflow-y: scroll;
+  height: 400px;
+  overflow-x: hidden;
+}

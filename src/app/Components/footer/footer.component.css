@@ -1,0 +1,10 @@
+a.anch2 {
+  color: rgb(0, 0, 0, 0.6);
+  text-decoration: none;
+}
+a.anch3 {
+  text-decoration: none;
+}
+.anch3:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,43 @@
+<div>
+  <div class="card ms-3 mt-3 mb-1">
+    <div class="card-header bg-white d-flex justify-content-start">
+      <img
+        src="{{ c_data.img }}"
+        alt="icon"
+        width="35"
+        height="35"
+        class="rounded-circle"
+      />
+      <a class="text-dark font-weight-bold mt-1 anch3" href="##">
+        {{ c_data.title }}
+      </a>
+    </div>
+    <div class="card-body">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 col-lg-6">
+            <div *ngFor="let c of data1">
+              <div class="row mb-2">
+                <a class="text-dark anch3">
+                  <small>{{ c }}</small>
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-12 col-lg-6">
+            <div *ngFor="let d of data2">
+              <div class="row mb-2">
+                <a class="text-dark anch3">
+                  <small>{{ d }}</small>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="justify-content-center mt-2 ms-3">
+        <app-fbshare></app-fbshare>
+      </div>
+    </div>
+  </div>
+</div>

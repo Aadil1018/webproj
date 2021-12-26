@@ -1,0 +1,165 @@
+{
+  "classes": [
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/early_math.png-314b80-128c.png",
+      "title": "Early Math",
+      "courses": [
+        "Counting",
+        "Addition and subtraction intro",
+        "Place value (tens and hundreds)",
+        "Addition and subtraction within 20",
+        "Addition and subtraction within 100",
+        "Addition and subtraction within 1000",
+        "Measurement and data",
+        "Geometry"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/early_math.png-314b80-128c.png",
+      "title": "Kindergarten",
+      "courses": [
+        "Counting and place value",
+        "Addition and subtraction",
+        "Measurement and geometry",
+        "Measurement and data",
+        "Geometry"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/early_math.png-314b80-128c.png",
+      "title": "1st Grade",
+      "courses": [
+        "Place value",
+        "Addition and subtraction",
+        "Measurement",
+        "Data and geometry",
+        "Add and subtract within 20"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/early_math.png-314b80-128c.png",
+      "title": "2nd Grade",
+      "courses": [
+        "Place value",
+        "Add and subtract within 20",
+        "Add and subtract within 100",
+        "Add and subtract within 1000",
+        "Measurement",
+        "Money and Time",
+        "Data",
+        "Geometry"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_3.png-6fb2af-128c.png",
+      "title": "3rd grade",
+      "courses": [
+        "Intro to multiplication",
+        "1-digit multiplication",
+        "Addition, subtraction, and estimation",
+        "Intro to division",
+        "Understand fractions",
+        "Equivalent fractions and comparing fractions",
+        "More with multiplication and division",
+        "Arithmetic patterns and problem solving",
+        "Quadrilaterals",
+        "Area",
+        "Perimeter",
+        "Time",
+        "Measurement",
+        "Represent and interpret data"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_4.png-c88a8f-128c.png",
+      "title": "4th Grade",
+      "courses": [
+        "Place value",
+        "Addition, subtraction, and estimation",
+        "Multiply by 1-digit numbers",
+        "Multiply by 2-digit numbers",
+        "Division",
+        "Factors, multiples and patterns",
+        "Equivalent fractions and comparing fractions",
+        "Add and subtract fractions",
+        "Multiply fractions",
+        "Understand decimals"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_5.png-43b287-128c.png",
+      "title": "5th Grade",
+      "courses": [
+        "Decimal place value",
+        "Add decimals",
+        "Subtract decimals",
+        "Add and subtract fractions",
+        "Multi-digit multiplication and division",
+        "Multiply fractions",
+        "Divide fractions",
+        "Multiply decimals",
+        "Divide decimals",
+        "Powers of ten",
+        "Volume",
+        "Coordinate plane",
+        "Algebraic thinking",
+        "Converting units of measure",
+        "Line plots",
+        "Properties of shapes"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_6.png-18a797-128c.png",
+      "title": "6th Grade",
+      "courses": [
+        "Ratios, rates, & percentages",
+        "Arithmetic operations",
+        "Negative numbers",
+        "Properties of numbers",
+        "Variables & expressions",
+        "Equations & inequalities introduction",
+        "Geometry",
+        "Data and statistics"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_7.png-1ee4f2-128c.png",
+      "title": "7th Grade",
+      "courses": [
+        "Negative numbers: addition and subtraction",
+        "Negative numbers: multiplication and division",
+        "Fractions, decimals, & percentages",
+        "Rates & proportional relationships",
+        "Expressions, equations, & inequalities",
+        "Geometry",
+        "Statistics and probability"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_8.png-ab8c7d-128c.png",
+      "title": "8th Grade",
+      "courses": [
+        "Numbers and operations",
+        "Solving equations with one unknown",
+        "Linear equations and functions",
+        "Systems of equations",
+        "Geometry",
+        "Geometric transformations",
+        "Data and modeling"
+      ]
+    },
+    {
+      "img": "https://cdn.kastatic.org/genfiles/topic-icons/icons/grade_8.png-ab8c7d-128c.png",
+      "title": "8th grade (Eureka Math/EngageNY)",
+      "courses": [
+        "Module 1: Integer exponents and scientific notation",
+        "Module 2: The concept of congruence",
+        "Module 3: Similarity",
+        "Module 4: Linear equations",
+        "Module 5: Examples of functions from geometry",
+        "Module 6: Linear functions",
+        "Module 7: Introduction to irrational numbers using geometry"
+      ]
+    }
+  ]
+}

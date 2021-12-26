@@ -1,0 +1,15 @@
+<div class="container Summary_Detail">
+  <div class="row mt-2">
+    <p class="muted-text">Course Summary</p>
+    <hr />
+  </div>
+  <div class="row-xs-12">
+    <div *ngFor="let i of summarydata">
+      <div class="row pb-4">
+        <a class="text-dark text-decoration-none" href="##">
+          <small> {{ i.title }} </small>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>

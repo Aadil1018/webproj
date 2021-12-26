@@ -1,0 +1,5 @@
+.Summary_Detail {
+  overflow-y: scroll;
+  height: 450px;
+  overflow-x: hidden;
+}

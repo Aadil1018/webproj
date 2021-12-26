@@ -1,0 +1,20 @@
+<div class="bgcustom">
+  <app-navbar> </app-navbar>
+  <app-topbox [headingdata]="topdata.headingdata" [linktext]="topdata.linktext">
+  </app-topbox>
+  <app-map></app-map>
+  <div class="container mt-1">
+    <div class="row bgcustom">
+      <div class="col-lg-3 d-none d-lg-block">
+        <app-summary [summarydata]="appdata.classes"></app-summary>
+      </div>
+      <div class="col-lg-9 col-md-12">
+        <div *ngFor="let d of appdata.classes">
+          <app-class [c_data]="d"> </app-class>
+        </div>
+      </div>
+    </div>
+  </div>
+  <p></p>
+  <app-footer></app-footer>
+</div>
